@@ -1,0 +1,12 @@
+---
+title: "Coursera Capstone Project"
+author: "Francis Ryu"
+date: "Wednesday, July 22, 2015"
+output: html_document
+---
+
+
+
+## Reference
+NGram Information
+https://cran.r-project.org/web/packages/ngram/vignettes/ngram-guide.pdf
